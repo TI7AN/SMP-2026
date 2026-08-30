@@ -101,6 +101,16 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "b24ba60b700ccce1c133be2317eae6f888d571fe9f42c9651bd711dded2c7ed2"
+metafile = true
+
+[[files]]
 file = "mods/performance/fast-item-frames.pw.toml"
 hash = "d3a435d8304fc8aef17248da6ec5c456ed3fa8d8aeb351d54eec12b3c12824a5"
 metafile = true
@@ -186,6 +196,11 @@ hash = "f07f7cb2fa8e6f911f2c82697a07a189e8f07fd91a44de4afb5f1b39787532ac"
 metafile = true
 
 [[files]]
+file = "mods/qol/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/qol/reach-behind.pw.toml"
 hash = "1c142a704ecd35eebbe2873e44b9ca962e322f77b53845ff704a4e573472af0d"
 metafile = true
@@ -236,6 +251,11 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "91c70c2916e2d98f182519e0c51de5c1004db09b27c106d0f52908393a44ed28"
+metafile = true
+
+[[files]]
 file = "mods/utils/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
@@ -248,4 +268,29 @@ metafile = true
 [[files]]
 file = "mods/utils/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/amplified-nether-height.pw.toml"
+hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/amplified-nether.pw.toml"
+hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/lithosphere.pw.toml"
+hash = "4a2b992577d6f41f981f3d2e12b13a1a0d5a8d252fed3c325f8b9443dc8ba33e"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/regions-unexplored.pw.toml"
+hash = "9a94f2e57b081963d11a33a9be6435046bfb8720defac9d2cced4d37b3db7299"
 metafile = true
