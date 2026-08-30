@@ -1,0 +1,13 @@
+name = "Let Me Sleep"
+filename = "LetMeSleep-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KK4HJa9m/versions/imYOUiQk/LetMeSleep-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "9b43de20d062e6526230cd4bb0d2e4a802e7046348d102cebd2c1ca9d2beb1ccf89bcdfd9e21318d8be82c21c85f4b646870548e2cd4c3fa0b9fe6bf76bbf036"
+
+[update]
+[update.modrinth]
+mod-id = "KK4HJa9m"
+version = "imYOUiQk"

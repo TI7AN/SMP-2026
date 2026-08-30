@@ -1,0 +1,13 @@
+name = "Bloomcraft"
+filename = "Bloomcraft-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6w1VobP/versions/4dWwUCdi/Bloomcraft-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "47edb371fa42a6f6c0c624422ca7b01a6140e4f5e857ff4f41c9380df3c599ceb97adeb4570e641e4a731fa9e798fee735efc2585caa75a28491904a85fc8125"
+
+[update]
+[update.modrinth]
+mod-id = "i6w1VobP"
+version = "4dWwUCdi"

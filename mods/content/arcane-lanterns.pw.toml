@@ -1,0 +1,13 @@
+name = "Arcane Lanterns"
+filename = "ArcaneLanterns-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NvlReHlC/versions/NRXn1TLg/ArcaneLanterns-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "75b096c194378163536126d57e7a7a55ac7d323b3dd276abd0892a53dbf7645a3c0a1730000ecc015794440b99ac07eb63ce7fcb806494f218f72e1a3518136f"
+
+[update]
+[update.modrinth]
+mod-id = "NvlReHlC"
+version = "NRXn1TLg"
