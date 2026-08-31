@@ -1,0 +1,13 @@
+name = "Global Trades"
+filename = "globaltrades.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j9cIaJVz/versions/paQEt1Mj/globaltrades.zip"
+hash-format = "sha512"
+hash = "6586d1b4cc658ab4eacbca5267ede6ab97c38061e97e4fd0bdadfcf554f6684d5935a511174cdfb66f426d9e3d8e73bd4b779dc5134ecba8bcd3e66715ac52db"
+
+[update]
+[update.modrinth]
+mod-id = "j9cIaJVz"
+version = "paQEt1Mj"
