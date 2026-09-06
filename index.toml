@@ -324,11 +324,6 @@ hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "78a50ddf9108d1dda82e7de46a991dcd61a046e4ea2279aa551071ba8f178f86"
-metafile = true
-
-[[files]]
 file = "mods/golden-foods.pw.toml"
 hash = "cfffb3d36b5e2dda67180b817bbdb23b89f6c859b7fbd7f66262a15a2ce3ce8b"
 metafile = true
@@ -916,11 +911,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
-metafile = true
-
-[[files]]
-file = "mods/yori3os-grappling-hooks-copper-addon.pw.toml"
-hash = "8962e7a2b945729c827ba288a6167c72ae319aaf4313839f1100c4e438213b0d"
 metafile = true
 
 [[files]]
