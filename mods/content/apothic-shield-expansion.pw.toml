@@ -1,0 +1,13 @@
+name = "Apothic Shield Expansion"
+filename = "apothicshieldexp-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJekIXFS/versions/ZytHn38N/apothicshieldexp-1.0.0.jar"
+hash-format = "sha512"
+hash = "742451320077130e72d1d777172b2bfa39ba3b68f4769346b05958adda46a19393b36b04df331fcc8c42a4786355f1f9758f211bb48496df4e0f7caafdf70eb3"
+
+[update]
+[update.modrinth]
+mod-id = "bJekIXFS"
+version = "ZytHn38N"

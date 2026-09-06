@@ -1,0 +1,13 @@
+name = "Greeneries"
+filename = "greeneries-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2GNkNG5/versions/AIYpLzp0/greeneries-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "009b36e9b2529e9cdd8a47b649ea2424dbe5a7eb6b9a2f5756f5c17c841e17dcb916c01806df28fedeacbb4385c231f0e5ff93cd7c2590ce6142ef28087f369e"
+
+[update]
+[update.modrinth]
+mod-id = "D2GNkNG5"
+version = "AIYpLzp0"
