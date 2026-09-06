@@ -919,6 +919,11 @@ hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
 metafile = true
 
 [[files]]
+file = "mods/yori3os-grappling-hooks-copper-addon.pw.toml"
+hash = "8962e7a2b945729c827ba288a6167c72ae319aaf4313839f1100c4e438213b0d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
