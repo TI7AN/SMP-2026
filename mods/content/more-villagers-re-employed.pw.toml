@@ -1,0 +1,13 @@
+name = "More Villagers: Re-employed"
+filename = "MoreVillagers-re-1.21.1-neoforge-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fOqTPRO/versions/CmzVOhe3/MoreVillagers-re-1.21.1-neoforge-7.1.0.jar"
+hash-format = "sha512"
+hash = "de6b5a4751ae511bd064b6a65248b10c91b32351a9c046748ab1e4c78b07f19a6f1dc652ca2f8de50c0479a2569d3f0925dd026ec6c9e84d83a177494575df2c"
+
+[update]
+[update.modrinth]
+mod-id = "1fOqTPRO"
+version = "CmzVOhe3"

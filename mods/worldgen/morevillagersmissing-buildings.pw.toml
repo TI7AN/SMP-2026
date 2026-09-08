@@ -1,0 +1,13 @@
+name = "More Villagers:Missing Buildings"
+filename = "{Neoforge]morevillagers_mb-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BDKAfls6/versions/7KFqU5bR/%7BNeoforge%5Dmorevillagers_mb-1.0.0.jar"
+hash-format = "sha512"
+hash = "cd5a9473e1647906a282788a690847000b61e892c9277f87ebed3c7b9ef5281692b103e97cb6ba7a4600cc96ea788157efdf4c1faacce0a2399eb861d5b5580a"
+
+[update]
+[update.modrinth]
+mod-id = "BDKAfls6"
+version = "7KFqU5bR"

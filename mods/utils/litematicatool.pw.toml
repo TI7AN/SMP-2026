@@ -1,0 +1,13 @@
+name = "Litematica Tool"
+filename = "LitematicaTool-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6d6agCA/versions/CdXYzlQ7/LitematicaTool-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "295b8cd61e32eef3ba08af6a1ae607590d54589c958990682f4769874d09ca9e77980badadfb09067da5239695ad44a5bd56eb8fb1aa16237378e64fa9bf04dd"
+
+[update]
+[update.modrinth]
+mod-id = "n6d6agCA"
+version = "CdXYzlQ7"
