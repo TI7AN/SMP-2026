@@ -171,11 +171,6 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
-file = "mods/client/gui/distraction-free-recipes.pw.toml"
-hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
-metafile = true
-
-[[files]]
 file = "mods/client/gui/drippy-early-loading-module.pw.toml"
 hash = "5fea3c19a3984ad752fd965510c4f8847c5100d001c31cbe46373628de729e06"
 metafile = true
@@ -637,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
-hash = "2a2b9478b96d83d7ab8d62f17a4acc68332df7efaecad3b584f781b589a22228"
+hash = "950b12e97f08fe502bb02c5f54341fa98535c60eea9eb53859a29b2d612381ca"
 metafile = true
 
 [[files]]
