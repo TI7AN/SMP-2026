@@ -11,3 +11,8 @@ hash = "1fa17cb3b01bb205f38b42c10c30ac5d941d8bd4630e03ce89467fded748086434229ac7
 [update.modrinth]
 mod-id = "zfPoD7Tm"
 version = "tOP74nwE"
+
+[option]
+optional = true
+default = false
+description = "A mini F3 HUD mod, also with various overlays like light level, spawn chunks, slime chunks etc."

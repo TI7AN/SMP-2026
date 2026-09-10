@@ -1,0 +1,18 @@
+name = "Inventory Interactions"
+filename = "InventoryInteractions-2.0.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCzmUKBr/versions/pJwln1af/InventoryInteractions-2.0.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "ffcd0a09a3416f1fdcb26ff1aa29f08f60282e64aa2061a9570a0898eda2c9782b90fba010183a75580329c78c7ccbc5ac66503b2713e9b34e7acccde022594e"
+
+[update]
+[update.modrinth]
+mod-id = "FCzmUKBr"
+version = "pJwln1af"
+
+[option]
+optional = true
+default = false
+description = "Adds animations to items"

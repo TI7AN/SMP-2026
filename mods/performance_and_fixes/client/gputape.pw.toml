@@ -11,3 +11,8 @@ hash = "7d6aa3e33431e52c96a928a72c7fac76f0abf17381181b38454b6a171a596c22883282f8
 [update.modrinth]
 mod-id = "5CTSrY8X"
 version = "jJBnRYkf"
+
+[option]
+optional = true
+default = false
+description = "Provides DSA & fastest math formulas to game render system for best perfomance! Compatible with Sodium/Embeddium, Iris and shaders."

@@ -11,3 +11,8 @@ hash = "3c0de6b6597a57b0fc3a134dde03ea3aeed0a7d64db63def8eda182c8bb7717293d2e475
 [update.modrinth]
 mod-id = "atHH8NyV"
 version = "BabRJO04"
+
+[option]
+optional = true
+default = false
+description = "This mod will allow you to change the tooltips of a selection of items"

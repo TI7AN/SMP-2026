@@ -11,3 +11,8 @@ hash = "c307cbd765ffb5edc55ad939553ae9fe7ca2d50d01bd1f0e71821ca51338253b5f663602
 [update.modrinth]
 mod-id = "NK39zBp2"
 version = "xONakKZi"
+
+[option]
+optional = true
+default = false
+description = "Blur the background while inside a menu."

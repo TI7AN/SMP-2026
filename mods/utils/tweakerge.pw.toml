@@ -11,3 +11,8 @@ hash = "3cf496cd275da1e05382dde8018245569c632ba3dee4e54c6e0d40a1ee89438d083dda8e
 [update.modrinth]
 mod-id = "yke6wdGF"
 version = "701i2Xre"
+
+[option]
+optional = true
+default = false
+description = "Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc."

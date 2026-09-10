@@ -11,3 +11,8 @@ hash = "a3726621e16dc4724ac62e60c329490025df54c5f545ae26fb867b5ac5daa19cba7620d0
 [update.modrinth]
 mod-id = "JIEwmDVI"
 version = "f3SxKzof"
+
+[option]
+optional = true
+default = false
+description = "Different footstep sounds based on block materials"

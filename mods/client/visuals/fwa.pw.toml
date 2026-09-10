@@ -11,3 +11,8 @@ hash = "dd44ef2dad3df2b52610b2f289f02590265b467409737630ae12ac5d540613f84191a1b5
 [update.modrinth]
 mod-id = "IAzUFvS6"
 version = "79A6vRlK"
+
+[option]
+optional = true
+default = false
+description = "Adds animations to a bunch of interactable blocks like doors, trapdoors, levers, buttons, jukeboxes but also swinging lanterns"

@@ -15,4 +15,4 @@ version = "v5qtqRQi"
 [option]
 optional = true
 default = false
-description = "Profiling tool"
+description = "Performance profiling tool"

@@ -11,3 +11,8 @@ hash = "507418e2822357fe643734014496ca973c6cb14007972419c3cbe0eebd840a8083dafbf4
 [update.modrinth]
 mod-id = "xLSpHE43"
 version = "FOOZoKsU"
+
+[option]
+optional = true
+default = false
+description = "Adds enchantment descriptions directly to your item tooltips"

@@ -11,3 +11,8 @@ hash = "2e96d8b54f3f2c99525c91cae298561cc122dde8840bcb2d64ec0cfd997b6f49efcd1305
 [update.modrinth]
 mod-id = "CYSUVOdj"
 version = "efoMHHTh"
+
+[option]
+optional = true
+default = false
+description = "Makes it easier to compare equipment by showing a tooltip for what you're already wearing"

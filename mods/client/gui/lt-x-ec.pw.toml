@@ -11,3 +11,8 @@ hash = "13f7318488d7a0b4786d54bf4b85459162b594a3f20d1101efb9331b690b7d1925ca90d6
 [update.modrinth]
 mod-id = "gCfAwaai"
 version = "nnAiF6HG"
+
+[option]
+optional = true
+default = false
+description = "Fix tooltip rendering issues when Legendary Tooltips and Equipment Compare are installed"

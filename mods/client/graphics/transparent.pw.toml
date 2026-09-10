@@ -11,3 +11,8 @@ hash = "b65e04a82dc5f20c385debe227688a722fb211755ef2061c9141bf498df4b94977492db5
 [update.modrinth]
 mod-id = "zp4jb9oQ"
 version = "VPG6hE9S"
+
+[option]
+optional = true
+default = false
+description = "Allows resource packs to make certain entities support transparency."

@@ -11,3 +11,8 @@ hash = "80b814a26acc39bbdff54bbf0e65c799989b1291c99cafe10bb92fab465df5b0b7be160e
 [update.modrinth]
 mod-id = "3qAYkBMB"
 version = "f1xWmwSP"
+
+[option]
+optional = true
+default = false
+description = "Customize Map Color, Block Colors, Colormaps and Block Sounds, Biome Colors, Dye Colors. Supports Optifine format. For Resource Packs"

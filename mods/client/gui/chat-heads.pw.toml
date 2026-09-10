@@ -11,3 +11,8 @@ hash = "97ec4a08ffe54917591e7e05ba5ed9359e591719e4f3246745de36923a8080e68332aff2
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
 version = "ZPylso9i"
+
+[option]
+optional = true
+default = false
+description = "Display each player's head besides their chat messages"

@@ -11,3 +11,8 @@ hash = "021336f44f9966da2089a813421601f2607646394f66762e673f4de644858fc0d4c3ee33
 [update.modrinth]
 mod-id = "Kw73iLDq"
 version = "gKgYWwEQ"
+
+[option]
+optional = true
+default = false
+description = "Adds potion and food effect descriptions directly to tooltips."

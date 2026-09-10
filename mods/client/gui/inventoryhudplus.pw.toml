@@ -11,3 +11,8 @@ hash = "a316cfb654199f51f242e6fe95fb29d129166231d14993d3a3b82f4c0461497e2e709bd5
 [update.modrinth]
 mod-id = "Kp2uclYl"
 version = "gOEEnxa6"
+
+[option]
+optional = true
+default = false
+description = "Adds your main inventory, potion effects and your equipments to your HUD. And few other features"

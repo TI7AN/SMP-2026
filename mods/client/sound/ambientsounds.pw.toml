@@ -11,3 +11,8 @@ hash = "292a7a61836eb6db31ec225ae4a0dc838416638618635ff60c07740bdc327df44ac0be77
 [update.modrinth]
 mod-id = "fM515JnW"
 version = "RZyxhsqY"
+
+[option]
+optional = true
+default = false
+description = "Adds ambient sounds"

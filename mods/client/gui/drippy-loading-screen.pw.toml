@@ -11,3 +11,9 @@ hash = "3ef65f88cfa42cca781a91a2490efc890fb1865502370f71d0871d5b33a70f53fc80af9a
 [update.modrinth]
 mod-id = "v3CYg2V9"
 version = "MVgsDsSB"
+
+[option]
+optional = true
+default = false
+description = "Custom mojang loading screen"
+

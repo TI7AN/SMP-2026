@@ -11,3 +11,8 @@ hash = "bd463f60ac2ab9f22bc7b7c35656e3e174b2db5bde95f3c7d404b07f085bdbd550774e9b
 [update.modrinth]
 mod-id = "IgftU6Mn"
 version = "SwSSfJQQ"
+
+[option]
+optional = true
+default = false
+description = "Rain drops make sound"

@@ -11,3 +11,8 @@ hash = "e166daab0383402e6ab9916e0082b4dd6c0a15d46ccaf357b3555f6f7ad5e81ff607a47c
 [update.modrinth]
 mod-id = "k3TlcLvL"
 version = "12xuEYZB"
+
+[option]
+optional = true
+default = false
+description = "Custom mod loader loading screen"

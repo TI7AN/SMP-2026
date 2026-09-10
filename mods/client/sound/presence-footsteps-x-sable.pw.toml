@@ -11,3 +11,8 @@ hash = "d108f26e092e1d973a8d5bff756974a8a5b6af2ac21e44f616338285c083a93a52a91fee
 [update.modrinth]
 mod-id = "ZAhKrMSS"
 version = "Mnm18kQK"
+
+[option]
+optional = true
+default = false
+description = "Compatibility between Presence Footsteps and Aeronautics"
