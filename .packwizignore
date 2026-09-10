@@ -3,4 +3,7 @@
 
 # Exclude README
 /README.md
-.ignore/
+*.ignore/
+*.ignore
+*.disable/
+*.disable

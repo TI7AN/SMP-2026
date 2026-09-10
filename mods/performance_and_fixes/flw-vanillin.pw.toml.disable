@@ -1,0 +1,8 @@
+name = "flw-vanillin"
+filename = "vanillin-neoforge-1.21.1-1.1.3-44.jar"
+side = "both"
+
+[download]
+url = "https://maven.createmod.net/dev/engine-room/vanillin/vanillin-neoforge-1.21.1/1.1.3-44/vanillin-neoforge-1.21.1-1.1.3-44.jar"
+hash-format = "sha256"
+hash = "31ef05209cf90a71cb3b7f34cfd790222cecf84aff2982fe8c968796f9493f50"

@@ -1,0 +1,13 @@
+name = "VanillaBackport: Mob Variants Compat"
+filename = "VB-MobVariantCompat1.4.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvYkeUqm/versions/tMXCWoEQ/VB-MobVariantCompat1.4.1.zip"
+hash-format = "sha512"
+hash = "c567b7ba6fac4272b85d9d629780986becf96727d5cc46f233bcdcfde85db4e97ef97dd8024c21bc94b4cc942972575cf8f71eb046081d8cad1ebebaf51eb1b2"
+
+[update]
+[update.modrinth]
+mod-id = "uvYkeUqm"
+version = "tMXCWoEQ"
