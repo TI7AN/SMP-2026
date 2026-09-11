@@ -433,6 +433,16 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
+file = "mods/client/qol/slot-cycler.pw.toml"
+hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
+metafile = true
+
+[[files]]
+file = "mods/client/qol/tweakerge.pw.toml"
+hash = "df9e83d733897e310f43b8ee0e08e7fa1c213926b35971a4f495cde42218382f"
+metafile = true
+
+[[files]]
 file = "mods/client/sound/ambientsounds.pw.toml"
 hash = "709441317e719988fd2fdf3712326c0b33228852e7af3afc15dc4758e67cc4f2"
 metafile = true
@@ -703,11 +713,6 @@ hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
-file = "mods/decoration/greeneries.pw.toml"
-hash = "611bcc62984983d0c04e3f049f999e48c80e72bb29139d058228286d92039356"
-metafile = true
-
-[[files]]
 file = "mods/decoration/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -789,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -1049,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/toadlib.pw.toml"
-hash = "fb3f7aff0e776639951d7e8efbf88224fdd2b65426667d59a531164794f78463"
+hash = "4042909c9fed9e74c3637db92a58e253debb1e93a6ea79a6ac3e20fbf6f8f1a8"
 metafile = true
 
 [[files]]
@@ -1418,11 +1423,6 @@ hash = "68294507359c310e2d25b4bccf160c173264c2301439be978242994c9fcb6cdc"
 metafile = true
 
 [[files]]
-file = "mods/qol/slot-cycler.pw.toml"
-hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
-metafile = true
-
-[[files]]
 file = "mods/qol/storage-drawers-create-compat.pw.toml"
 hash = "4514e495c19d9631ad325bc94d0b6ed86085dcda4b3ce46f533a86dce3240143"
 metafile = true
@@ -1508,6 +1508,10 @@ hash = "34bab18f8671c1bea3cc577bf412afcc587c7f6d704ffabc7c4bf7fc049c32b4"
 metafile = true
 
 [[files]]
+file = "mods/server_mods.txt"
+hash = "2e515ed4a80622046c65ac7d724435e2e958917df8dd22e854ecbe96053535bf"
+
+[[files]]
 file = "mods/utils/bedsheet.pw.toml"
 hash = "79803478cecaf08cae039a913e74256f5f0e506e4ab48210a67cc001c883b753"
 metafile = true
@@ -1520,6 +1524,31 @@ metafile = true
 [[files]]
 file = "mods/utils/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb/ftb-chunks-forge.pw.toml"
+hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb/ftb-library-forge.pw.toml"
+hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb/ftb-quests-forge.pw.toml"
+hash = "231248f3c215087055bfe020f8cab41bdda3c61097bc0182e069f067509d5e64"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb/ftb-teams-forge.pw.toml"
+hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb/ftbxaerocompat.pw.toml"
+hash = "db5702e18aadc0f4c6a0b1a79e6689aa97e6d5d8979012769709ad287f034434"
 metafile = true
 
 [[files]]
@@ -1558,11 +1587,6 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/utils/paxi.pw.toml"
-hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
-metafile = true
-
-[[files]]
 file = "mods/utils/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
@@ -1574,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "mods/utils/servuxforged.pw.toml"
-hash = "8d8adf5d3ed0d4e9f8a07864f385c8749f63f0df594e92109e3783cf152371dc"
+hash = "3b72239107a72d5ca4616d0fcbe7d2c3a7ea0554915159ec4c102d75929609bf"
 metafile = true
 
 [[files]]
@@ -1590,11 +1614,6 @@ metafile = true
 [[files]]
 file = "mods/utils/spark.pw.toml"
 hash = "15cea9c89667d46d0fd0e98db47fed3d1e0865055b508de244778196d0929025"
-metafile = true
-
-[[files]]
-file = "mods/utils/tweakerge.pw.toml"
-hash = "df9e83d733897e310f43b8ee0e08e7fa1c213926b35971a4f495cde42218382f"
 metafile = true
 
 [[files]]
@@ -1618,13 +1637,18 @@ hash = "763125b743e375904c81af45f8702b6d6a5b90b5dca1c34f1f77338b75444488"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/immersive-gateways.pw.toml"
-hash = "657304d03bd57ffbce032ca2ca59a3a7ef83b35f401a6db89b83ae720e64a250"
+file = "mods/worldgen/overworld/geophilic-backport.pw.toml"
+hash = "ad7073cfde54792c62c5d11647638405da3d77be01190a888f96a7f9b655a372"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/immersive-snow.pw.toml"
-hash = "759ebd337fa67f558a204baef57041ca0392fd206c786a3e7643a5c6b27f4cee"
+file = "mods/worldgen/overworld/geophilic.pw.toml"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/immersive-gateways.pw.toml"
+hash = "657304d03bd57ffbce032ca2ca59a3a7ef83b35f401a6db89b83ae720e64a250"
 metafile = true
 
 [[files]]
@@ -1660,6 +1684,11 @@ metafile = true
 [[files]]
 file = "mods/worldgen/overworld/streams-reflowing.pw.toml"
 hash = "601b3b6086130077a78ada3fca19d2b94505f9d3f8482ff5f79334eb90b00f2b"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
