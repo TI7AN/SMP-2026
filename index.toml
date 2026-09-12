@@ -573,11 +573,6 @@ hash = "547ad64e9b21fcb4a74cf3b45f99057f9d2d2f6e6a89725e4a69895aa8daad6d"
 metafile = true
 
 [[files]]
-file = "mods/content/betterdays.pw.toml"
-hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
-metafile = true
-
-[[files]]
 file = "mods/content/bountiful.pw.toml"
 hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
 metafile = true
@@ -648,11 +643,6 @@ hash = "9d237ba6802b662f712d357e47f8291e6b3a67ec505a5133be678b825eda96ca"
 metafile = true
 
 [[files]]
-file = "mods/content/serene-seasons-plus.pw.toml"
-hash = "2de70cf681aa801bdb62dadfe3dcdc4a98c75c000ddee779addf4404762416e6"
-metafile = true
-
-[[files]]
 file = "mods/content/serene-seasons.pw.toml"
 hash = "bcaac076ac981463ee57b7469430e5fb7ff99f8e2387681e7ac737ca5d22596b"
 metafile = true
@@ -674,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/universal-jewelry.pw.toml"
-hash = "6348d02e3e4367edc4ab37764b4acd96b02633a6d040d9cf0724c011cc514396"
+hash = "6dd94753af49b9bdc32f8c2938ed03c0436e41c571f411837d6a6d22d73096a9"
 metafile = true
 
 [[files]]
@@ -760,11 +750,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
-metafile = true
-
-[[files]]
-file = "mods/decoration/supplementaries.pw.toml"
-hash = "950b12e97f08fe502bb02c5f54341fa98535c60eea9eb53859a29b2d612381ca"
 metafile = true
 
 [[files]]
@@ -1268,16 +1253,6 @@ hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
 
 [[files]]
-file = "mods/qol/carry-on.pw.toml"
-hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
-metafile = true
-
-[[files]]
-file = "mods/qol/carryon-aeronautics-compat.pw.toml"
-hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
-metafile = true
-
-[[files]]
 file = "mods/qol/charm-of-undying.pw.toml"
 hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
@@ -1557,11 +1532,6 @@ hash = "1db25211349d6526378c90de2ad12284b9abb66becd4945aebf9a26d4bdbb8d9"
 metafile = true
 
 [[files]]
-file = "mods/utils/kyoyu.pw.toml"
-hash = "71bf084164e41c79cea68ec14e33842d9b9449a7688630ca1488b142c5b7dbab"
-metafile = true
-
-[[files]]
 file = "mods/utils/let-me-sleep-fuzs.pw.toml"
 hash = "0fabea55616e1d258776b9d570307b17192b5f957949c5b9b4b41e488047bdc4"
 metafile = true
@@ -1647,18 +1617,8 @@ hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/immersive-gateways.pw.toml"
-hash = "657304d03bd57ffbce032ca2ca59a3a7ef83b35f401a6db89b83ae720e64a250"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/overworld/improved-village-placement.pw.toml"
 hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/integrated-stronghold.pw.toml"
-hash = "9db2595b8dcf9759ec549481561132e1affc19634d368a78ae79aa45557c3be2"
 metafile = true
 
 [[files]]
