@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vs/ProjectSettings.json"
-hash = "debe308c356f9f0c649ccd3bd0c9a2e921566eb38aaaad97de07e6a0ce9a1b33"
-
-[[files]]
-file = ".vs/SMP2026/FileContentIndex/6d489e42-8b10-4331-9809-61c14283d1a8.vsidx"
-hash = "89882dd4ec5108337ab91b0ebfab5b15c953f4aaf2bccd03947ce465fc975ee9"
-
-[[files]]
-file = ".vs/SMP2026/v17/.wsuo"
-hash = "0331e114589607be410c4368942778814d809c41d0ae55a03f766bc7b98dd83f"
-
-[[files]]
-file = ".vs/SMP2026/v17/DocumentLayout.json"
-hash = "43090f2873a651bf8180f85dbd4649a6517e0f44b6194240872e66649ba2145f"
-
-[[files]]
-file = ".vs/VSWorkspaceState.json"
-hash = "f8315c8ace58425aeca40c1c17b3be8d50894c55f561cd7e36266da5d5ea3d72"
-
-[[files]]
-file = ".vs/slnx.sqlite"
-hash = "2b05de4238ba6d294fcf8cdab0e97d1056a08b5303fc6792b3f55670c7d2ba24"
-
-[[files]]
 file = "configureddefaults/config/euphoria_patcher/.data.json"
 hash = "f59cab2b4ffe5190cc30c3b785ab217b55abc7b0c444110b801ddca065962e42"
 
@@ -362,18 +338,8 @@ hash = "6fc46d72336be11582b933177410f6e0e1e89c5464e19a1885c5ce80738b01c5"
 metafile = true
 
 [[files]]
-file = "mods/client/gui/legendary-tooltips.pw.toml"
-hash = "aeb09f6fa9a0f1e7f29f7d48daacd228b17748d6ec6718c247d42092bbb91bdb"
-metafile = true
-
-[[files]]
 file = "mods/client/gui/loot-journal.pw.toml"
 hash = "e32ffe0c1f2be3c4c5eac3bce9c14d92c00c4b008853cd7f6e5ae0f78bded56b"
-metafile = true
-
-[[files]]
-file = "mods/client/gui/lt-x-ec.pw.toml"
-hash = "77295a3b7e00896540a2aa100308dadaa5612bbc9fdbfda6a6ce16660b6c34a0"
 metafile = true
 
 [[files]]
@@ -387,18 +353,8 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
-file = "mods/client/gui/pick-up-notifier.pw.toml"
-hash = "0aacb7fea318c59b82b4e1af5307af83e4f580c2cfba0ce33e356a52409c24ec"
-metafile = true
-
-[[files]]
 file = "mods/client/gui/seasonhud.pw.toml"
 hash = "171576d0796e13f3d771906fd016e6e8e1ea8e0a72e35bfc4231894c46317f2b"
-metafile = true
-
-[[files]]
-file = "mods/client/gui/stylish-effects.pw.toml"
-hash = "d22f50c66c95d54004e13f5c6e219d7bd8a0f9c5b72f4597272f63f7f31cfa6d"
 metafile = true
 
 [[files]]
@@ -532,11 +488,6 @@ hash = "7ffea5b6d81b72f0f09aa41c32107d5d45665f187abf051044433a2ae744540e"
 metafile = true
 
 [[files]]
-file = "mods/client/visuals/fbp-renewed.pw.toml"
-hash = "88679dc329c534ac0b861b9ec1b9850dba97001a62a79173d24c6aa51dfee451"
-metafile = true
-
-[[files]]
 file = "mods/client/visuals/fusion-connected-textures.pw.toml"
 hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
 metafile = true
@@ -544,16 +495,6 @@ metafile = true
 [[files]]
 file = "mods/client/visuals/fwa.pw.toml"
 hash = "559a94116f3f25c203a337e5649efe8565cdd009fcf44ab14f1231f2e5f2c622"
-metafile = true
-
-[[files]]
-file = "mods/client/visuals/inventory-interactions.pw.toml"
-hash = "869248345ed10dbd1e9199fa48c8fd3939c6c3d8621210301914bdab75a628db"
-metafile = true
-
-[[files]]
-file = "mods/client/visuals/inventory-particles.pw.toml"
-hash = "95de4e267013c7d866d464c77767ba804d8935ff6d07c113f3b707db8f4baa37"
 metafile = true
 
 [[files]]
