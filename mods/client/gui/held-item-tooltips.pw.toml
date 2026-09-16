@@ -14,5 +14,5 @@ version = "GLzG8UbN"
 
 [option]
 optional = true
-default = false
+default = true
 description = "See item enchantments, potion effects, shulker box contents and much more directly above your hotbar"

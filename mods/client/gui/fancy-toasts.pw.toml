@@ -11,3 +11,8 @@ hash = "395758051273e2bd13d9f93e2e10c0e3eaa5218e6ca0ae71f2dcb0cc929e25e1eda07997
 [update.modrinth]
 mod-id = "eUziWqPC"
 version = "X2GAO9kB"
+
+[option]
+optional = true
+default = true
+description = "Custom advancement toasts"

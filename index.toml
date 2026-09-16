@@ -189,7 +189,12 @@ metafile = true
 
 [[files]]
 file = "mods/client/graphics/fism.pw.toml"
-hash = "723d23c422ca95f4ed11660a0204a3b1c9a6d930cf7b097f5ec5e85655e23e56"
+hash = "6daf35ba97946bf062d8f2768ad0cf06d75c0505ef4e3953fabd6446be590cc7"
+metafile = true
+
+[[files]]
+file = "mods/client/graphics/fusion-connected-textures.pw.toml"
+hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/gui/drippy-loading-screen.pw.toml"
-hash = "ba046d37d77bee4ea5ea8c555f28fe4c01cde01202cac94a235188ea78c628e2"
+hash = "39bf9e7fa50412dd4633205500fc2887ab5bb2f603353c82c938bfe0d4964200"
 metafile = true
 
 [[files]]
@@ -284,22 +289,22 @@ metafile = true
 
 [[files]]
 file = "mods/client/gui/fancy-toasts.pw.toml"
-hash = "a45c329c4b342e78f2f8b7fd8263b6fd5a133e088d7738900f18c6b8fb31eca3"
+hash = "a071094fd7a750ed736f26cb178e4380bd89bd33340de1055ae935efde3c3daf"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/fancymenu.pw.toml"
-hash = "0789c9f6c10b5cddaa37eeb9388b068b168cd8c0ee1d21f0c3b78d160fc48fdd"
+hash = "56def25fd4331de3db9a8ff2bb3f2ae66a6d8c9a57e5043f2de703e4430147e0"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/held-item-tooltips.pw.toml"
-hash = "ff0d780c9744b5703421ff6141d80a00dd9bf1e118d59060da359e9272ea8b63"
+hash = "72d18a39ce9455af76bbd6726ca3fec9988c3e79e6ebeb22261a5cc3a6274472"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/immersive-damage-indicators.pw.toml"
-hash = "92597abe86f0f8fdf4d4ef1e3e07b73aff10cfcc8a36ef9b34af41fe81bf49d0"
+hash = "57ee14ced2cad8c517290456fc5090e5227b599b698d0ac3885375f969eb2053"
 metafile = true
 
 [[files]]
@@ -339,12 +344,12 @@ metafile = true
 
 [[files]]
 file = "mods/client/gui/loot-journal.pw.toml"
-hash = "e32ffe0c1f2be3c4c5eac3bce9c14d92c00c4b008853cd7f6e5ae0f78bded56b"
+hash = "4d0750c9715a8e0ae5097cd45e94f5770b7c346548d94bd37b86761c98255381"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/obscure-tooltips.pw.toml"
-hash = "eccc623b6e17b5b8438f8bb09fd181f292fb309368a87bd28aac930c9e97c69f"
+hash = "088f508e80e0ae45618c1231e83a6752dd02784cd3fef8c4542d4fc6a7864310"
 metafile = true
 
 [[files]]
@@ -359,17 +364,22 @@ metafile = true
 
 [[files]]
 file = "mods/client/gui/travelers-titles.pw.toml"
-hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+hash = "91b32a2ddf881db6361dd52c27ca876834a501eb076efe8e528561619bcca000"
+metafile = true
+
+[[files]]
+file = "mods/client/gui/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/xaeros-minimap.pw.toml"
-hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
 metafile = true
 
 [[files]]
 file = "mods/client/gui/xaeros-world-map.pw.toml"
-hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
+hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
 metafile = true
 
 [[files]]
@@ -488,11 +498,6 @@ hash = "7ffea5b6d81b72f0f09aa41c32107d5d45665f187abf051044433a2ae744540e"
 metafile = true
 
 [[files]]
-file = "mods/client/visuals/fusion-connected-textures.pw.toml"
-hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
-metafile = true
-
-[[files]]
 file = "mods/client/visuals/fwa.pw.toml"
 hash = "559a94116f3f25c203a337e5649efe8565cdd009fcf44ab14f1231f2e5f2c622"
 metafile = true
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/content/ars-noveau/ars-technica.pw.toml"
 hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
+metafile = true
+
+[[files]]
+file = "mods/content/ars-noveau/ars-trinkets.pw.toml"
+hash = "5307d6d504e7a1dad915085e22881f29092a727e33c051bc52ee3bc5e5c72188"
 metafile = true
 
 [[files]]
@@ -833,6 +843,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/content/quark-oddities.pw.toml"
+hash = "90205f57bb28e4c990ff7aa2e98cae6ec68fb78470047ceb018b25bba5dba85a"
+metafile = true
+
+[[files]]
 file = "mods/content/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
@@ -973,8 +988,8 @@ hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
-file = "mods/libraries/almanac.pw.toml"
-hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+file = "mods/integration/quarkponders.pw.toml"
+hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
@@ -993,18 +1008,8 @@ hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
 metafile = true
 
 [[files]]
-file = "mods/libraries/atlas-api.pw.toml"
-hash = "4d611e688a4c09c69c90b5070e54e9dc13510d26e156b8bd12907ccd10048537"
-metafile = true
-
-[[files]]
 file = "mods/libraries/balm.pw.toml"
 hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
-metafile = true
-
-[[files]]
-file = "mods/libraries/better-advanced-tooltips.pw.toml"
-hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
@@ -1038,11 +1043,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/libraries/forge-config-api-port.pw.toml"
-hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
-metafile = true
-
-[[files]]
 file = "mods/libraries/fragmentum.pw.toml"
 hash = "4d5756b0229f397d4de87b46749442eed754feea6af7a207d8d534850151c428"
 metafile = true
@@ -1050,11 +1050,6 @@ metafile = true
 [[files]]
 file = "mods/libraries/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
-metafile = true
-
-[[files]]
-file = "mods/libraries/gabous-libs.pw.toml"
-hash = "a1ccf6a2467dd2cec849b80d4c872ba647e3dd9dccb24da4fb6fae617e73e89e"
 metafile = true
 
 [[files]]
@@ -1080,11 +1075,6 @@ metafile = true
 [[files]]
 file = "mods/libraries/immersive-messages-api.pw.toml"
 hash = "a44b950f0c4099f34bd47f0bfb772b410218a2ead558077a2321721a9127fddd"
-metafile = true
-
-[[files]]
-file = "mods/libraries/integrated-api.pw.toml"
-hash = "703e92fc99236364da4c6ac04cf84d8e5b6c9f110a04252b2b6efc47e61448ec"
 metafile = true
 
 [[files]]
@@ -1128,18 +1118,13 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/libraries/mechanicals-lib.pw.toml"
+hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
+metafile = true
+
+[[files]]
 file = "mods/libraries/melody.pw.toml"
 hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
-metafile = true
-
-[[files]]
-file = "mods/libraries/midnightlib.pw.toml"
-hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
-metafile = true
-
-[[files]]
-file = "mods/libraries/monolib.pw.toml"
-hash = "e0ee74eb150e202cf7eb0bf807116cbb2a4b2ea8af6d9ac331e491b60d65805d"
 metafile = true
 
 [[files]]
@@ -1148,18 +1133,8 @@ hash = "582436f7e3a9676d638481f8f5ab5fb82f63a20804a93929d88ab01572706bb5"
 metafile = true
 
 [[files]]
-file = "mods/libraries/mossylib.pw.toml"
-hash = "a06ce5d402c5e5eab06c7b70daceecb02007741fe9b8eef5231799cd24261eeb"
-metafile = true
-
-[[files]]
 file = "mods/libraries/mru.pw.toml"
 hash = "2f440147fd28b6f035a2cacdaa929be79547a9e1f6de8d10f287f1b34d8717ad"
-metafile = true
-
-[[files]]
-file = "mods/libraries/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -1285,16 +1260,6 @@ metafile = true
 [[files]]
 file = "mods/libraries/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
-metafile = true
-
-[[files]]
-file = "mods/libraries/zfastnoise.pw.toml"
-hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
-metafile = true
-
-[[files]]
-file = "mods/mechanicals-lib.pw.toml"
-hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
 metafile = true
 
 [[files]]
@@ -1658,6 +1623,11 @@ hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
+file = "mods/qol/torchmaster.pw.toml"
+hash = "9daefeebf775faf0eb892216580077b9d05c299b7b5464c616f7b04367f33150"
+metafile = true
+
+[[files]]
 file = "mods/qol/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
@@ -1793,6 +1763,11 @@ hash = "15cea9c89667d46d0fd0e98db47fed3d1e0865055b508de244778196d0929025"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/countereds-terrain-slabs.pw.toml"
+hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
@@ -1868,27 +1843,37 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+file = "resourcepacks/compat/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
+file = "resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui/enchant-icons-countxd.pw.toml"
 hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/roman-numerals-for-enchant-icons.pw.toml"
+file = "resourcepacks/gui/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui/roman-numerals-for-enchant-icons.pw.toml"
 hash = "6d4a458424243515c0aee50ae05c610a62a59356c32978764d50033d74cb92f0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/travelers-titles/biome-edition-visual-travelers-titles.pw.toml"
+file = "resourcepacks/gui/travelers-titles/biome-edition-visual-travelers-titles.pw.toml"
 hash = "0de17264cefa876cd6508fb5aad4122ba187a7d6de6109b5edd4b4a2666f596a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/travelers-titles/visual-travelers-titles.pw.toml"
+file = "resourcepacks/gui/travelers-titles/visual-travelers-titles.pw.toml"
 hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
 metafile = true
 

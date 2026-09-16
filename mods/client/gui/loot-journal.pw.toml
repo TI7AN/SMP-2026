@@ -15,4 +15,4 @@ version = "4Jtboo51"
 [option]
 optional = true
 default = false
-description = "Alternative to pickup notifier"
+description = "Item pickup notifications"

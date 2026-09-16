@@ -14,5 +14,5 @@ version = "pGTwkb3r"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Adds animated damage indicators"

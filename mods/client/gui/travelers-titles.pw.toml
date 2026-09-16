@@ -11,3 +11,8 @@ hash = "eed7ed02277e32f374da0999bbb24410c04543ca39e6e349ca9e441c468e218cf0cad591
 [update.modrinth]
 mod-id = "JtifUr64"
 version = "2y01mBUy"
+
+[option]
+optional = true
+default = false
+description = "Biome and dimension visual titles"

@@ -15,4 +15,4 @@ version = "f7xkynP2"
 [option]
 optional = true
 default = false
-description = "Alternative to legendary tooltips"
+description = "Visual changes to item tooltips based on rarity"

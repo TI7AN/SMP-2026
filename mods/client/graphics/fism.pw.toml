@@ -11,3 +11,8 @@ hash = "2f0b39bada45af99430b2a66376877c43e4221026bab4e116031fb3cbce19ba5d3e70963
 [update.modrinth]
 mod-id = "nSRLvOHG"
 version = "sQXgelDq"
+
+[option]
+optional = true
+default = false
+description = "Optimization for iris shaders"
