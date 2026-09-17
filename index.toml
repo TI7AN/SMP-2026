@@ -318,6 +318,21 @@ hash = "ec2a36deab55491041b66d8b9fb8c4b075b2146287e1abb6c60eda21fa54a687"
 metafile = true
 
 [[files]]
+file = "mods/client/gui/jade-addons-forge.pw.toml"
+hash = "6fd64a8c68d2935cbc62ca4346be2d3b702c05bc231f7bbb436bc3a4d8ab70e8"
+metafile = true
+
+[[files]]
+file = "mods/client/gui/jade-farmers-delight-compatibility.pw.toml"
+hash = "91fb15781a92a9845f75da4897e9ad0f736afceb8931fa5d7b42ee13e2aed41b"
+metafile = true
+
+[[files]]
+file = "mods/client/gui/jade-sable-compat.pw.toml"
+hash = "673bc79f4d42c7de3343a8e2933a3fbd355ba34e8a7ca06ffdae659bd57a8231"
+metafile = true
+
+[[files]]
 file = "mods/client/gui/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
@@ -383,21 +398,6 @@ hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
 metafile = true
 
 [[files]]
-file = "mods/client/jade-addons-forge.pw.toml"
-hash = "6fd64a8c68d2935cbc62ca4346be2d3b702c05bc231f7bbb436bc3a4d8ab70e8"
-metafile = true
-
-[[files]]
-file = "mods/client/jade-farmers-delight-compatibility.pw.toml"
-hash = "91fb15781a92a9845f75da4897e9ad0f736afceb8931fa5d7b42ee13e2aed41b"
-metafile = true
-
-[[files]]
-file = "mods/client/jade-sable-compat.pw.toml"
-hash = "673bc79f4d42c7de3343a8e2933a3fbd355ba34e8a7ca06ffdae659bd57a8231"
-metafile = true
-
-[[files]]
 file = "mods/client/qol/bocchud.pw.toml"
 hash = "45878cefaa76a113087e3c181e595963aff7acf05af14800607bdbfd21ff275b"
 metafile = true
@@ -410,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/client/qol/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
+file = "mods/client/qol/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/client/qol/no-telemetry.pw.toml"
 hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
+file = "mods/client/qol/resource-gamma-utils.pw.toml"
+hash = "fb673258c4aabce0e4ccdd8b9be3157571f1f57d7f792e7b74177a58ec2f45b7"
 metafile = true
 
 [[files]]
@@ -515,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/compat/ice-and-fire-dragons-x-better-combat.pw.toml"
 hash = "bd9b481946f4fa0ab5b258fc25ab9b154a83856c913584e2ea5ccba3632c16f5"
+metafile = true
+
+[[files]]
+file = "mods/compat/vertical-slabs-compat.pw.toml"
+hash = "c4806d525cf95b6e884096253e14b1be875e8520e3ae19d13f71847a6192e0d9"
 metafile = true
 
 [[files]]
@@ -993,6 +1008,11 @@ hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
+file = "mods/libraries/almanac.pw.toml"
+hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
+metafile = true
+
+[[files]]
 file = "mods/libraries/amber.pw.toml"
 hash = "fb2bbe5935f61871ae9ddc2e40d44c773f62cda0cfc211be22c4717268ad6485"
 metafile = true
@@ -1105,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/libraries/libjf.pw.toml"
+hash = "154c4ee948271ee8521758eaa135b3b42ce587a555f0acb2016e8315094afd8d"
 metafile = true
 
 [[files]]
@@ -1733,8 +1758,28 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
+file = "mods/utils/panoptic.pw.toml"
+hash = "35a0d7e9e4acd1ccfb87ad58e3767881332413028e237932d0bd80e258a222f1"
+metafile = true
+
+[[files]]
+file = "mods/utils/panopticon.pw.toml"
+hash = "8b6840a15aee8b8d3049aecfe4a0ba1224902e95c63fb697532b621d013f9d62"
+metafile = true
+
+[[files]]
 file = "mods/utils/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
+file = "mods/utils/resourcify.pw.toml"
+hash = "22f9c2065c52dc3d9e324fe8e27dfe447273da7143eedcde47794a5cb479a16d"
+metafile = true
+
+[[files]]
+file = "mods/utils/respackopts.pw.toml"
+hash = "23783ac2017607a7a2364663cebfda6fd6692adb70bb7416af96bb6eb24b002b"
 metafile = true
 
 [[files]]
@@ -1744,7 +1789,7 @@ metafile = true
 
 [[files]]
 file = "mods/utils/servuxforged.pw.toml"
-hash = "3b72239107a72d5ca4616d0fcbe7d2c3a7ea0554915159ec4c102d75929609bf"
+hash = "4f206345d83cc71e9571c7b1167f0039fd9511cc8dc2a5a6e19e6aaef34d764b"
 metafile = true
 
 [[files]]
@@ -1769,17 +1814,17 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
-hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+hash = "a5e586ec985b2c81396791cd61bffa1b0451a84e1dfbef777c806d11535f61d0"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/nether/amplified-nether-height.pw.toml"
-hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
+hash = "ba2d1f9eafa6fa59246b7e4565b641bdc07cb1ddd5bb5cac0d3578c2010736dd"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/nether/amplified-nether.pw.toml"
-hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
+hash = "1e3337b795c0dccccea41979c2e149950dc27a63d31577c38f7595e66c64c8b2"
 metafile = true
 
 [[files]]
@@ -1788,18 +1833,13 @@ hash = "763125b743e375904c81af45f8702b6d6a5b90b5dca1c34f1f77338b75444488"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/continents.pw.toml"
-hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/overworld/geophilic-backport.pw.toml"
-hash = "ad7073cfde54792c62c5d11647638405da3d77be01190a888f96a7f9b655a372"
+hash = "54348965cc10dcaecd5c14fe25bbb8059c68790f358f7dff27a05e90b783cc8c"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/geophilic.pw.toml"
-hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
+hash = "571e910607bd945d3fb7e1905a453fa9fd59777d8e5b3dcd2a6f994a2c22cfb5"
 metafile = true
 
 [[files]]
@@ -1828,13 +1868,18 @@ hash = "601b3b6086130077a78ada3fca19d2b94505f9d3f8482ff5f79334eb90b00f2b"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
+hash = "236e9cf3b43c2ed9169f14b32919bbd6497dcc94ba8d511de9e97ac5ff80dfab"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/overworld/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tidal-towns.pw.toml"
-hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+hash = "acedf6b7dbf358351a251cd630e691750890753847819f4139312dcef6b1a6f1"
 metafile = true
 
 [[files]]

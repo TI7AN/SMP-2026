@@ -11,3 +11,9 @@ hash = "ed622c3a8480cd60ba5c775bdc0706ced56e77dcae21a8a8845c0844cb23564b9efc4141
 [update.modrinth]
 mod-id = "H9LzoDgA"
 version = "91aeDCf5"
+
+[option]
+optional = true
+default = false
+description = "SERVER SIDE ONLY"
+
