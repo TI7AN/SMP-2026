@@ -1758,16 +1758,6 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/utils/panoptic.pw.toml"
-hash = "35a0d7e9e4acd1ccfb87ad58e3767881332413028e237932d0bd80e258a222f1"
-metafile = true
-
-[[files]]
-file = "mods/utils/panopticon.pw.toml"
-hash = "8b6840a15aee8b8d3049aecfe4a0ba1224902e95c63fb697532b621d013f9d62"
-metafile = true
-
-[[files]]
 file = "mods/utils/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
