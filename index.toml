@@ -1548,9 +1548,8 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
-file = "mods/qol/ftb-ultimine-forge.pw.toml"
+file = "mods/qol/ftb-ultimine-forge.pw.toml.disabled"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
-metafile = true
 
 [[files]]
 file = "mods/qol/gravestone-mod.pw.toml"
@@ -1575,6 +1574,11 @@ metafile = true
 [[files]]
 file = "mods/qol/leaves-be-gone.pw.toml"
 hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+metafile = true
+
+[[files]]
+file = "mods/qol/liteminer.pw.toml"
+hash = "73875f0d458e15ccf2e3db42d458502805dc0e407d51313e7c55f2a577761096"
 metafile = true
 
 [[files]]
