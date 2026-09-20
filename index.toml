@@ -423,6 +423,11 @@ hash = "4f9879f6833e4ad0fb9a4976619cc71e7f20c1ddfbcd182aba6aa3d832b66b42"
 metafile = true
 
 [[files]]
+file = "mods/client/qol/freecam.pw.toml"
+hash = "7a5582f280f52ee419c00064ba690e402a03dceca76175274269e1f96b224594"
+metafile = true
+
+[[files]]
 file = "mods/client/qol/inventory-essentials.pw.toml"
 hash = "8ed1d89bfcb006c0f65f6cb7da568edae3a673cd95ce29df62d26144cb5ee83d"
 metafile = true
