@@ -1883,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/terralith-restoned.pw.toml"
-hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
+hash = "d8d5d95692bd87bb856f6ccc2d6ebe72dc61e51dd00531fe02f394e85240bd33"
 metafile = true
 
 [[files]]
