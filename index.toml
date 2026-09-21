@@ -168,6 +168,11 @@ hash = "931a9bf74fa259307bccbf0764d31fae1ef50b08e31ac0297c2903fbb31b6c3b"
 metafile = true
 
 [[files]]
+file = "datapacks/villager-cure-discount-stacking.pw.toml"
+hash = "3a7dfb0db2ed779a87d02bdc7ef38977b71a793dc795c8beac309a2f26a44005"
+metafile = true
+
+[[files]]
 file = "mods/client/graphics/distanthorizons.pw.toml"
 hash = "c3e0dd6a4bac728f3f892616af7e78ce363df113b0fe11daf95f17a32d68ef1a"
 metafile = true
@@ -1809,6 +1814,11 @@ metafile = true
 [[files]]
 file = "mods/utils/simple-voice-chat.pw.toml"
 hash = "4bbb4ff006bf5f27179a47683b2710c92cb3314a1520e95bcd1808a6ea94ec4a"
+metafile = true
+
+[[files]]
+file = "mods/utils/sleep.pw.toml"
+hash = "48c0a153aca68d582623a016aeca10c8e9e4a859fbb2f8e97bb88f54ec761c9d"
 metafile = true
 
 [[files]]

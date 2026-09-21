@@ -1,0 +1,13 @@
+name = "Villager Cure Discount Stacking"
+filename = "Villager Cure Discount Stacking.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nk3DNZC6/versions/pdw9NOAA/Villager%20Cure%20Discount%20Stacking.zip"
+hash-format = "sha512"
+hash = "b044b4313cea817c2f8c38a734032a1fe489d9858a83acc790e4eebab4f8026730983ad0aac8c653fcbe7767f60e140fab269adb497757013a2e210a054c2cdb"
+
+[update]
+[update.modrinth]
+mod-id = "nk3DNZC6"
+version = "pdw9NOAA"
