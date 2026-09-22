@@ -273,11 +273,6 @@ hash = "39bf9e7fa50412dd4633205500fc2887ab5bb2f603353c82c938bfe0d4964200"
 metafile = true
 
 [[files]]
-file = "mods/client/gui/durability-tooltip.pw.toml"
-hash = "91044869b5c597936f6841e23975c4a5082a6f7f7faf0d151a5b1a491d4ffc5f"
-metafile = true
-
-[[files]]
 file = "mods/client/gui/effect-insights.pw.toml"
 hash = "4c29873c9a9af7031412530489c3a450ac76bdd54204e04c44e63fc2000dd0d7"
 metafile = true
@@ -625,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/content/ars-noveau/ars-zero.pw.toml"
 hash = "13407067896955c70e004706483c3273c1abbc656a29a071568babd1c0929558"
+metafile = true
+
+[[files]]
+file = "mods/content/ars-noveau/not-enough-glyphs.pw.toml"
+hash = "075f7f59fc5fb819085bda32a70cea764a21dc0f3b5f3a461cd54519b9da27d9"
 metafile = true
 
 [[files]]
