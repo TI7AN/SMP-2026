@@ -1,0 +1,13 @@
+name = "Pipez - Recreated"
+filename = "Pipez-Recreated-(Less-bumps).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi08RTyH/versions/kaK6WDT0/Pipez-Recreated-%28Less-bumps%29.zip"
+hash-format = "sha512"
+hash = "22ef14f2e8593bb2a28a157d78ba301c84a397044897aabd80506a734c9b57895cb11cde8700cb3f38ebde7fa1d822d1f5202211581fb31f01ff0eaba3fb146d"
+
+[update]
+[update.modrinth]
+mod-id = "hi08RTyH"
+version = "kaK6WDT0"

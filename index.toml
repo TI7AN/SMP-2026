@@ -1612,6 +1612,11 @@ hash = "f07f7cb2fa8e6f911f2c82697a07a189e8f07fd91a44de4afb5f1b39787532ac"
 metafile = true
 
 [[files]]
+file = "mods/qol/pipez.pw.toml"
+hash = "03c2188c7c5aa4407964fd3bb20074b52eb2adf8897c3a22897cc037446450ce"
+metafile = true
+
+[[files]]
 file = "mods/qol/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
@@ -1949,6 +1954,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gui/travelers-titles/visual-travelers-titles.pw.toml"
 hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pipez-recreated.pw.toml"
+hash = "360c8cc53fcd95fdd0e57d2c00b523306841647b5ccbe401e9586ef4fc84f115"
 metafile = true
 
 [[files]]
