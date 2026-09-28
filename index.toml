@@ -448,11 +448,6 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
-file = "mods/client/qol/resource-gamma-utils.pw.toml"
-hash = "fb673258c4aabce0e4ccdd8b9be3157571f1f57d7f792e7b74177a58ec2f45b7"
-metafile = true
-
-[[files]]
 file = "mods/client/qol/slot-cycler.pw.toml"
 hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
 metafile = true
@@ -1604,11 +1599,6 @@ metafile = true
 [[files]]
 file = "mods/qol/magnum-torch.pw.toml"
 hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
-metafile = true
-
-[[files]]
-file = "mods/qol/open-together.pw.toml"
-hash = "f07f7cb2fa8e6f911f2c82697a07a189e8f07fd91a44de4afb5f1b39787532ac"
 metafile = true
 
 [[files]]
