@@ -1827,6 +1827,11 @@ hash = "15cea9c89667d46d0fd0e98db47fed3d1e0865055b508de244778196d0929025"
 metafile = true
 
 [[files]]
+file = "mods/utils/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/countereds-terrain-slabs.pw.toml"
 hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
 metafile = true
