@@ -1,6 +1,6 @@
 name = "SMP 2026"
 author = "TI7AN"
-version = "1.1.6"
+version = "1.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "fae7675863ef52d5daf7bb06f95a84aa65192570178d7b0fe77b8967513aa63a"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.249"
+neoforge = "21.1.250"
 
 [options]
 datapack-folder = "datapacks"
