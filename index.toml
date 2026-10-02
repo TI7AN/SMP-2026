@@ -373,6 +373,11 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
+file = "mods/client/gui/packed-packs.pw.toml"
+hash = "0efd587d5dabf95175c67a3c559ef86cf724c7c7ce40f1bec8f5cb08e751c74e"
+metafile = true
+
+[[files]]
 file = "mods/client/gui/seasonhud.pw.toml"
 hash = "171576d0796e13f3d771906fd016e6e8e1ea8e0a72e35bfc4231894c46317f2b"
 metafile = true
@@ -413,11 +418,6 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
-file = "mods/client/qol/draggable-lists.pw.toml"
-hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
-metafile = true
-
-[[files]]
 file = "mods/client/qol/forgematica.pw.toml"
 hash = "4f9879f6833e4ad0fb9a4976619cc71e7f20c1ddfbcd182aba6aa3d832b66b42"
 metafile = true
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/qol/tweakerge.pw.toml"
-hash = "df9e83d733897e310f43b8ee0e08e7fa1c213926b35971a4f495cde42218382f"
+hash = "e1f55e0c85291392b676cfb0cba0c6f8489dcd1a4dc942e334853f92849e977d"
 metafile = true
 
 [[files]]
@@ -1303,6 +1303,11 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "mods/packforge.pw.toml"
+hash = "48be26f1e73fae02a5505f02702fc0933a3b62ccb7f9471628affd92babde305"
+metafile = true
+
+[[files]]
 file = "mods/performance_and_fixes/async-locator-refined.pw.toml"
 hash = "b77926df9a06028f058f33d85837ca623eb6fef9c4b78d9b39b428a1bf1a67b5"
 metafile = true
@@ -1556,10 +1561,6 @@ metafile = true
 file = "mods/qol/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
-
-[[files]]
-file = "mods/qol/ftb-ultimine-forge.pw.toml.disabled"
-hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 
 [[files]]
 file = "mods/qol/gravestone-mod.pw.toml"
