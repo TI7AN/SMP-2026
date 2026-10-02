@@ -453,11 +453,6 @@ hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
 metafile = true
 
 [[files]]
-file = "mods/client/qol/tweakerge.pw.toml"
-hash = "e1f55e0c85291392b676cfb0cba0c6f8489dcd1a4dc942e334853f92849e977d"
-metafile = true
-
-[[files]]
 file = "mods/client/sound/ambientsounds.pw.toml"
 hash = "709441317e719988fd2fdf3712326c0b33228852e7af3afc15dc4758e67cc4f2"
 metafile = true
@@ -1303,11 +1298,6 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
-file = "mods/packforge.pw.toml"
-hash = "48be26f1e73fae02a5505f02702fc0933a3b62ccb7f9471628affd92babde305"
-metafile = true
-
-[[files]]
 file = "mods/performance_and_fixes/async-locator-refined.pw.toml"
 hash = "b77926df9a06028f058f33d85837ca623eb6fef9c4b78d9b39b428a1bf1a67b5"
 metafile = true
@@ -1450,6 +1440,11 @@ metafile = true
 [[files]]
 file = "mods/performance_and_fixes/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/performance_and_fixes/packforge.pw.toml"
+hash = "48be26f1e73fae02a5505f02702fc0933a3b62ccb7f9471628affd92babde305"
 metafile = true
 
 [[files]]
@@ -1680,6 +1675,11 @@ metafile = true
 [[files]]
 file = "mods/qol/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
+metafile = true
+
+[[files]]
+file = "mods/qol/tweakerge.pw.toml"
+hash = "e1f55e0c85291392b676cfb0cba0c6f8489dcd1a4dc942e334853f92849e977d"
 metafile = true
 
 [[files]]
