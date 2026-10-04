@@ -179,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/client/graphics/entity-model-features.pw.toml"
-hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+hash = "173eff96fe7535877db4fa57c02a9c7104ec7f2882b3163d784448a399775b5d"
 metafile = true
 
 [[files]]
 file = "mods/client/graphics/entitytexturefeatures.pw.toml"
-hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+hash = "4940941cff06ee93adc683363163b402d866de99baeba790731af821dfe8f35e"
 metafile = true
 
 [[files]]
