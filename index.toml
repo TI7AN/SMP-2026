@@ -477,6 +477,11 @@ hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
 metafile = true
 
 [[files]]
+file = "mods/client/qol/tweakerge.pw.toml"
+hash = "ec4891718b8bc3255122af0e6e4c8268fa249e17855477f6cba474e152e41ef1"
+metafile = true
+
+[[files]]
 file = "mods/client/sound/ambientsounds.pw.toml"
 hash = "709441317e719988fd2fdf3712326c0b33228852e7af3afc15dc4758e67cc4f2"
 metafile = true
@@ -1173,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/mafglib.pw.toml"
-hash = "d6be2abcc98f4cf57d11e8aa120c5caebb6715390ad080d624b7ab4da8c8e402"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
@@ -1729,11 +1734,6 @@ metafile = true
 [[files]]
 file = "mods/qol/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
-metafile = true
-
-[[files]]
-file = "mods/qol/tweakerge.pw.toml"
-hash = "e1f55e0c85291392b676cfb0cba0c6f8489dcd1a4dc942e334853f92849e977d"
 metafile = true
 
 [[files]]

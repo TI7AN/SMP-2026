@@ -1,6 +1,6 @@
 name = "Tweakerge"
 filename = "tweakerge-0.4.3+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar"
