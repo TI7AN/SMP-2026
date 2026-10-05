@@ -1678,6 +1678,11 @@ hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
 metafile = true
 
 [[files]]
+file = "mods/qol/trashslot.pw.toml"
+hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+metafile = true
+
+[[files]]
 file = "mods/qol/tweakerge.pw.toml"
 hash = "e1f55e0c85291392b676cfb0cba0c6f8489dcd1a4dc942e334853f92849e977d"
 metafile = true
