@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "7a2c5ceed7a50ad0bea1e1bcdd2dc89a8f9a90a5633b5615980442decc49764f"
 
