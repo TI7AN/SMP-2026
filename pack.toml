@@ -10,7 +10,7 @@ hash = "197461335be91e2e869ac6ed74b855898d4e8097c610ea163954668383edcadb"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.250"
+neoforge = "21.1.255"
 
 [options]
 datapack-folder = "datapacks"
