@@ -846,6 +846,11 @@ hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
 
 [[files]]
+file = "mods/content/create/addons/tfmg-community-edition.pw.toml"
+hash = "8f0cba8a87fd4fd749a95a02e41a4754f6db3d3c96da921f4c1cbaa8a191b293"
+metafile = true
+
+[[files]]
 file = "mods/content/create/addons/waystones-sable.pw.toml"
 hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
 metafile = true
@@ -1503,11 +1508,6 @@ metafile = true
 [[files]]
 file = "mods/performance_and_fixes/structure-layout-optimizer.pw.toml"
 hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
