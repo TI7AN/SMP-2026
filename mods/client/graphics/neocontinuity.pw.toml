@@ -14,5 +14,5 @@ project-id = 1377279
 
 [option]
 optional = true
-default = false
+default = true
 description = "Connected textures support"

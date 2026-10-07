@@ -1,0 +1,13 @@
+name = "Tom's storage Create style"
+filename = "Create_Simple_Storage_2.1+3D.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EEtbvAb0/versions/3i4PdC8V/Create_Simple_Storage_2.1%2B3D.zip"
+hash-format = "sha512"
+hash = "5a9d05a0646169bec51405f640c29b4e79b28347be4d73c51f500c1f3fc2dbc1e0fa605e9d0e92f910afd8979d46c2023e84c3c0d5878fbdb699a93f728ce34f"
+
+[update]
+[update.modrinth]
+mod-id = "EEtbvAb0"
+version = "3i4PdC8V"

@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books - Create Addon"
+filename = "xali's Enchanted Books Create Addon v1.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U7A94OB9/versions/XVBLFy7w/xali%27s%20Enchanted%20Books%20Create%20Addon%20v1.1.0.zip"
+hash-format = "sha512"
+hash = "300419de6fb010d82e52110b5fb352173c9c7f4e1d58fb588376aa40507110f65276ac7ea45cf9b9eff2f5d66a822227bf06062596ba8230ff671e0bd39f979a"
+
+[update]
+[update.modrinth]
+mod-id = "U7A94OB9"
+version = "XVBLFy7w"

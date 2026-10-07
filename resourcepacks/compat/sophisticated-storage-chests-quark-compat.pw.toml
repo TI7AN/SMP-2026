@@ -1,0 +1,13 @@
+name = "Sophisticated Storage Chests Quark Compat"
+filename = "§eSophisticated_Storage_ChestsQuark1.20-26.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hojbuOkn/versions/104eBFTR/%C2%A7eSophisticated_Storage_ChestsQuark1.20-26.x.zip"
+hash-format = "sha512"
+hash = "d2eff1383e05abff1d35b7660c135a3e016c680a9f104bf1b93c97bc40dc6f9c0cf9e6b5c6e64cfb73427e21f7bbb009d706f94734b4ff8d61270449e52a5dd4"
+
+[update]
+[update.modrinth]
+mod-id = "hojbuOkn"
+version = "104eBFTR"

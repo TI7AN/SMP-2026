@@ -1,0 +1,13 @@
+name = "True Dovah"
+filename = "True Dovah.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ttTrrTr/versions/Gt5qv6bZ/True%20Dovah.zip"
+hash-format = "sha512"
+hash = "fa5e8cbcc5be8545884407ee36be200934230bc843f7231cef65ed6b7b445648f890a9890d00840c69940827ff9747fe3622a0827de6516cc5b71da30bf2ae09"
+
+[update]
+[update.modrinth]
+mod-id = "1ttTrrTr"
+version = "Gt5qv6bZ"

@@ -14,5 +14,5 @@ project-id = 1599869
 
 [option]
 optional = true
-default = false
+default = true
 description = "Implements optifine CIT models. Allows for custom textures based on item data (like enchantments)"

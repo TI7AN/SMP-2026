@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books - Fix"
+filename = "xali's Enchanted Books Fix v2 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dkLpFBWR/versions/Bvr2zabW/xali%27s%20Enchanted%20Books%20Fix%20v2%201.21.zip"
+hash-format = "sha512"
+hash = "444a258a92555071b82986c0b900b0c9f0e1d4018888d73f203418cbbe6fff07fcbfc1e66bf18546d9445216ce92ca1d6c7ffbfa5471b05dc046d67513c75df8"
+
+[update]
+[update.modrinth]
+mod-id = "dkLpFBWR"
+version = "Bvr2zabW"

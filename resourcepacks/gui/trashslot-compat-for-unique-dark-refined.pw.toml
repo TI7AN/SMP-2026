@@ -1,0 +1,13 @@
+name = "TrashSlot Compat for Unique Dark Refined"
+filename = "TrashSlot - UD Refined.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JC93hOPX/versions/sniNirQw/TrashSlot%20-%20UD%20Refined.zip"
+hash-format = "sha512"
+hash = "cac4b61d02bfe165993fbbdac7725185d8d00308191b3995fb32572cb17423ebcde32362b34145776356dfaf12e5bc77974ff5c1279b7a557533a0bb3923e801"
+
+[update]
+[update.modrinth]
+mod-id = "JC93hOPX"
+version = "sniNirQw"

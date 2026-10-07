@@ -5,6 +5,30 @@ file = "config/iceandfire/iaf-client.json"
 hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
 [[files]]
+file = "config/packed_packs/__version.json"
+hash = "53d0bd0d7dcc4f7d177829026f9f473fd8a5b5cd328c483a883de9a70ba33f1f"
+
+[[files]]
+file = "config/packed_packs/config.json"
+hash = "cc636b29a6862e0a39e5be7d88458f8374648f87b4f36cf4eaa5b44b866d14aa"
+
+[[files]]
+file = "config/packed_packs/config.meta.json"
+hash = "5f2f84e2db28e1c3d7d36c2bb8fea85fefbd609344b1a9e24f878ebb8e7e8a67"
+
+[[files]]
+file = "config/packed_packs/preferences.properties"
+hash = "7e41dd9592a91e3887512dc632002018f7677eaeaff2dca6bde887806b94a400"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Default.profile.json"
+hash = "653483b6d043ea01031331d5d56d2b6546ade72fae045967c06988d25e9276e4"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Unnamed Profile.profile.json"
+hash = "37fd42e90d08fea548a46958356e1a8a5621a4ebf350ba7f4fbb989643560f1e"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "7a2c5ceed7a50ad0bea1e1bcdd2dc89a8f9a90a5633b5615980442decc49764f"
 
@@ -182,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/graphics/cit-resewn-neoforge.pw.toml"
-hash = "ab0ef6645b852c9cddf19aae832ce7698ba0d7e31d1332cd8e2e4ef567e27b4c"
+hash = "e4dc68ee8ac147caaeec77267ec7a517126c8120a59a9f5fc83546300924ffc0"
 metafile = true
 
 [[files]]
@@ -227,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/graphics/neocontinuity.pw.toml"
-hash = "0fc8177bd10cd2c01d95014187caf029ab0cf9a2825a6e511eaff7a387f4b5c0"
+hash = "e820fc5a2aaab031221ab1f55078eb37083f32823d2681e2c76ac0127bd84649"
 metafile = true
 
 [[files]]
@@ -733,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/content/create/addons/create-central-kitchen.pw.toml"
 hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
+metafile = true
+
+[[files]]
+file = "mods/content/create/addons/create-contraption-terminals.pw.toml"
+hash = "0eaabd71feeb13bb51455fc6528adf953639fe70b17d9bb90d54bacd8f6377a8"
 metafile = true
 
 [[files]]
@@ -1721,13 +1750,8 @@ hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
 metafile = true
 
 [[files]]
-file = "mods/qol/storage/storage-drawers-create-compat.pw.toml"
-hash = "4514e495c19d9631ad325bc94d0b6ed86085dcda4b3ce46f533a86dce3240143"
-metafile = true
-
-[[files]]
-file = "mods/qol/storage/storagedrawers.pw.toml"
-hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+file = "mods/qol/storage/toms-storage.pw.toml"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
@@ -1786,11 +1810,6 @@ hash = "54610dc039719b997c7774ee95e354e82a689a08e457636ba518d0831d554437"
 metafile = true
 
 [[files]]
-file = "mods/utils/configured-defaults.pw.toml"
-hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
-metafile = true
-
-[[files]]
 file = "mods/utils/ftb-backups-2.pw.toml"
 hash = "2a75b3fb887f2b973ce82a1881ac811eea35dfe194d4e321f3e2565815e94448"
 metafile = true
@@ -1833,6 +1852,11 @@ metafile = true
 [[files]]
 file = "mods/utils/mixintrace-reforged.pw.toml"
 hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
+metafile = true
+
+[[files]]
+file = "mods/utils/mmmmmmmmmmmm.pw.toml"
+hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
 metafile = true
 
 [[files]]
@@ -1986,13 +2010,53 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/compat/create-sophisticated-backpacks.pw.toml"
+file = "resourcepacks/compat/sophisticated-storage-chests-quark-compat.pw.toml"
+hash = "f7d9bb841a10b1857db0a6ff52a1b844cce4fb0fcb31f10cc0fa06cfcfbdc934"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create_style/ars-nouveau-brass-ified-create-style-anbics.pw.toml"
+hash = "21e4e6c096a92fba4dcc5f73c4f807a45113213d5dc8bdc8e93de9f3ded547ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create_style/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
+file = "resourcepacks/create_style/create-sophisticated-storages.pw.toml"
 hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create_style/create-waystones-texture-+-gui.pw.toml"
+hash = "9e77cd5c9c9b584c44ed4be0fe93aaaf8777a20720e918364cac065fa24eeeda"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create_style/toms-storage-create-style.pw.toml"
+hash = "f1e2127c877d211863deabd0e4f55db53afc14a2667ecaf97c426607cebaa318"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted_books/xalis-enchanted-books-addon.pw.toml"
+hash = "aba7aa78c601f27dea2e22904b428f3aec1882b5e7d6003d0e6502fb8801b370"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted_books/xalis-enchanted-books-create-addon.pw.toml"
+hash = "310835bb7cc3f7755280900e0d903e0779a5fe4f44274f74d19f1e344952da9e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted_books/xalis-enchanted-books-fix.pw.toml"
+hash = "ffdd6e63ed4de820bef189eda134137c70a47a7a09aeac72a5f88f53a2f65805"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted_books/xalis-enchanted-books.pw.toml"
+hash = "fa7a1393c11f2be2e90e001f2c031352577aa38edd927193b541594ff5b55947"
 metafile = true
 
 [[files]]
@@ -2001,28 +2065,53 @@ hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui/icon-xaeros.pw.toml"
-hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
-metafile = true
-
-[[files]]
 file = "resourcepacks/gui/roman-numerals-for-enchant-icons.pw.toml"
 hash = "6d4a458424243515c0aee50ae05c610a62a59356c32978764d50033d74cb92f0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui/travelers-titles/biome-edition-visual-travelers-titles.pw.toml"
-hash = "0de17264cefa876cd6508fb5aad4122ba187a7d6de6109b5edd4b4a2666f596a"
+file = "resourcepacks/gui/trashslot-compat-for-unique-dark-refined.pw.toml"
+hash = "0954a405dd356a3791733dcf72cf84d6bbe199b0af4ef57f2ea1f2ca986c7715"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui/travelers-titles/visual-travelers-titles.pw.toml"
-hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
+file = "resourcepacks/gui/unique-dark-hotbar-add-on.pw.toml"
+hash = "7beeb4202a6d327be7ba1f14c9e79547182ac8a659581990f68c4365a9c6980e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pipez-recreated.pw.toml"
+file = "resourcepacks/gui/unique-dark-refined.pw.toml"
+hash = "74ac6f151445da2d42137f4fe9c562734ca1d2599acf5058b4a6207c4c2a1cdd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui/unique-dark.pw.toml"
+hash = "ef29ab42be9a4f9090fe0589045d479dd02c05d54f5540d95166f9dc9dbba3df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remakes/aures-torchmaster-remaster.pw.toml"
+hash = "1b4488586656bee12b46dbc4733f5dbbba6e50f4c478aa0b7d4e369f44fec184"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remakes/pipez-recreated.pw.toml"
 hash = "360c8cc53fcd95fdd0e57d2c00b523306841647b5ccbe401e9586ef4fc84f115"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remakes/re-applied.pw.toml"
+hash = "9f3c68dc23a7d984f7bc57e685844d6b85341a2c6fcd66635fd06868049ca1ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remakes/simply-swords-reforged.pw.toml"
+hash = "c59449c0d46c893c3ed5015cd60209939673457a03bfc131a5bcf7a76134b883"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remakes/true-dovah.pw.toml"
+hash = "90cce6ad14960bcb0f4776b85a0d42b9f5edbb6ccdebb43a895a08fa19c2e3fa"
 metafile = true
 
 [[files]]
