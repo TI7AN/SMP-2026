@@ -1864,6 +1864,11 @@ hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
 metafile = true
 
 [[files]]
+file = "mods/utils/more-mobgriefing-options.pw.toml"
+hash = "5ab56f8721c1f433b8018a9ccc4dc22a806e7a0efd078a3fcc11c8d096e676ba"
+metafile = true
+
+[[files]]
 file = "mods/utils/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true

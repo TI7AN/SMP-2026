@@ -1,12 +1,12 @@
 name = "SMP 2026"
 author = "TI7AN"
-version = "1.4.0"
+version = "1.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ded4b08e3fdd32ce1042fc409b4dbeb839ce44887a2af217e837375c303d5495"
+hash = "0541556249505ab6851b5bc788506ac04fd1550f918e99794df6785ad31d67cc"
 
 [versions]
 minecraft = "1.21.1"
