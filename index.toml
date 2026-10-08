@@ -1090,6 +1090,10 @@ hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
+file = "mods/inventorio_fixes-neoforge-1.0.0.jar"
+hash = "8c7b37b88f9da110bd017f1a44527a1bdc09e160b77552324670affc29aecaa2"
+
+[[files]]
 file = "mods/libraries/almanac.pw.toml"
 hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
 metafile = true
