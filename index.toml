@@ -1025,6 +1025,11 @@ hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
+file = "mods/decoration/every-compat.pw.toml"
+hash = "cc230dd39acdfe8845b6b0c8c3a0f9799a1c1109ea14b5b11c05313f15ed4fc9"
+metafile = true
+
+[[files]]
 file = "mods/decoration/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -1045,8 +1050,33 @@ hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
 metafile = true
 
 [[files]]
+file = "mods/decoration/macaws-lights-and-lamps.pw.toml"
+hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
+metafile = true
+
+[[files]]
+file = "mods/decoration/macaws-paths-and-pavings.pw.toml"
+hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
+metafile = true
+
+[[files]]
+file = "mods/decoration/macaws-quark.pw.toml"
+hash = "0103a687d9616bf6b512b5a7d0c02770febe34101797a6ae300dd3380dbfbafe"
+metafile = true
+
+[[files]]
 file = "mods/decoration/macaws-roofs.pw.toml"
 hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
+file = "mods/decoration/macaws-stairs.pw.toml"
+hash = "abae13cbccdb8789a929cc4d2f9fc38f93ef6bb9082a87f931fcef1b1695cbe6"
+metafile = true
+
+[[files]]
+file = "mods/decoration/macaws-trapdoors.pw.toml"
+hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
 metafile = true
 
 [[files]]
@@ -1067,6 +1097,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
+metafile = true
+
+[[files]]
+file = "mods/decoration/stone-zone.pw.toml"
+hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
 metafile = true
 
 [[files]]
@@ -1092,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/inventorio_fixes-neoforge-1.1.0.jar"
 hash = "13e87122d0723913edfc1feaafa9a78561803c14f0401cdd4809c3f07c002785"
+
+[[files]]
+file = "mods/libraries/addonslib.pw.toml"
+hash = "487344fb90cd5c294e8b6e8922ce7cfd436d78b1b8880b5029046aa419d5d277"
+metafile = true
 
 [[files]]
 file = "mods/libraries/almanac.pw.toml"
@@ -1435,7 +1475,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance_and_fixes/client/ixeris.pw.toml"
-hash = "c82344480d1ff51e6f0804e753689cf41423e312fca2dc167734bbfdf7004c54"
+hash = "2c6b67bb6f902a086dc034d43c4c2246277b206020b38cc7e913cf0e6f559766"
 metafile = true
 
 [[files]]
@@ -1551,11 +1591,6 @@ metafile = true
 [[files]]
 file = "mods/qol/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
-metafile = true
-
-[[files]]
-file = "mods/qol/block-runner.pw.toml"
-hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
 
 [[files]]

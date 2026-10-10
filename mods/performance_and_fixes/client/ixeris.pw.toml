@@ -11,3 +11,8 @@ hash = "e0dc4c12d6e0abc2a0153edf8fc1a0f11bfdea29f3a9e6b18df2a4c47a4c648707d3da31
 [update.modrinth]
 mod-id = "p8RJPJIC"
 version = "w7GJlPMp"
+
+[option]
+optional = true
+default = false
+description = "Better input polling"
